@@ -6,6 +6,5 @@ La siguiente imagen representa la cantidad de información aleatoria presente en
 ![Alt text](https://cloud.githubusercontent.com/assets/5383862/25551610/e27deda0-2c4c-11e7-84e8-351f316777c2.png?raw=true "Resultado de la prueba chi cuadrada para detectar mensajes ocultos en imágenes")
 
 Más información en el blog:
-http://watermarkero.blogspot.com/2017/04/analisis-chi-cuadrada-en-esteganografia-lsb.htm
-
+http://watermarkero.blogspot.com/2017/04/analisis-chi-cuadrada-en-esteganografia-lsb.html
 Agradezco la contribución de Mario Alfonso Martínez González y Carlos Ariel Molar Barrera en el desarrollo del código fuente.
